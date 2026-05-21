@@ -1,0 +1,6 @@
+[submodule "win32-errors"]
+	path = win32-errors
+	url = https://github.com/ItsMeForLua/cl-win32-errors.git
+[submodule "win32-types"]
+	path = win32-types
+	url = https://github.com/ItsMeForLua/cl-win32-types.git
